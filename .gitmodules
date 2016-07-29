@@ -1,0 +1,9 @@
+[submodule "external/Leaflet-GeoMixer"]
+	path = external/Leaflet-GeoMixer
+	url = git@github.com:ScanEx/Leaflet-GeoMixer.git
+[submodule "external/leaflet.markercluster"]
+	path = external/leaflet.markercluster
+	url = git@github.com:leaflet/leaflet.markercluster.git
+[submodule "external/leaflet"]
+	path = external/leaflet
+	url = git@github.com:leaflet/leaflet.git
