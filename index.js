@@ -15,7 +15,7 @@ window.addEventListener('load', (e) => {
 
     window.map = map
 
-    L.gmx.loadLayer('F3352F4FF93041528B04B833EBC156A6', '0FDBF9D073A1428F94E8492F1E2AF2EE').then(function (layer) {
+    L.gmx.loadLayer('Z6BDM', '0FDBF9D073A1428F94E8492F1E2AF2EE').then(function (layer) {
         const clusterLayer = new ClusterLayer({
             dataLayer: layer
         })
